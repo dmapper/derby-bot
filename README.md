@@ -5,8 +5,6 @@ be used for high load testing, implementing admin-cli and so on.
 
 ## Usage
 
-In the server part of your app:
-
 ```js
 var bot = require('derby-bot'); 
 
