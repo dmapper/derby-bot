@@ -1,6 +1,6 @@
 {
   "name": "derby-bot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Derby client nodejs WebSocket bot",
   "main": "lib/index.js",
   "scripts": {
